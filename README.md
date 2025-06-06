@@ -1,1 +1,1 @@
-# Data_analyst_project
+# Bank_loan_analysis_project
