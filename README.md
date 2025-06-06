@@ -1,4 +1,4 @@
-![Screenshot 2025-06-06 144654](https://github.com/user-attachments/assets/50ee9ad4-8a22-4ddc-b8e4-58d766c4b4a7)# Bank_loan_analysis_project
+
 # 🏦 Bank Loan Analytics Project
 
 This project analyzes bank loan data using Excel, SQL, Power BI, and Tableau to uncover patterns in customer behavior, credit risk, and loan performance.
